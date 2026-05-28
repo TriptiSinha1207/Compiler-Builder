@@ -1,6 +1,7 @@
 # Config-Driven App Compiler
 
 This repository implements a deterministic multi-stage generation pipeline for converting open-ended user instructions into a strict, validated application configuration and a runnable runtime.
+Deployed link: http://compiler-builder-461674.netlify.app/
 
 ## What it includes
 
